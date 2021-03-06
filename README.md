@@ -3,6 +3,34 @@
 ```
 Convert your weak password into strong one
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![alt text](https://github.com/HEGADE/WebApp-For-Secured-Password-Generator/blob/main/spg.jpg?raw=true)
 
 
