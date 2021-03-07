@@ -45,6 +45,6 @@ then click create, by this way  you can get the  original strong password
 ```
 <hr>
 
-### Bellow is the link of SPG
+### Bellow is the link for SPG
 
 [Secured passord generator](https://strong-passwod.netlify.app/)
