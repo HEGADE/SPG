@@ -1,4 +1,4 @@
-# WebApp-For-Secured-Password-Generator
+# WebApp-For-Secured-Password-Creation
 
 ```
 Convert your weak password into strong one
